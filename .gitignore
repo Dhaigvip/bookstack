@@ -1,0 +1,11 @@
+# Visual Studio code
+.vscode/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+bookstack_app_data/log
+bookstack_db_data/log
